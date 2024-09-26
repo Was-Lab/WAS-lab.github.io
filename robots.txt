@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://lins-lab.github.io/sitemap.xml
+Sitemap: https://was-lab.github.io/sitemap.xml
